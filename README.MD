@@ -22,3 +22,6 @@ This bot has an optional feature that you can use in order to allow your users a
 By default, this option is disabled. But it can be re-enabled at compile time by changing `const WarpPlusEnabled = false` to `const WarpPlusEnabled = true` in main.go file.
 
 The problem is that that your IP might get banned due to flooding.
+
+## Non-Bot version
+If you want you can use [wgcf](https://github.com/ViRb3/wgcf/) in order to get wireguard config with your own PC. Also, I just wanna thanks him because some pars of my code is scrapped from that project.
