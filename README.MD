@@ -16,6 +16,17 @@ go build main.go profile.go
 
 Then you run the executable file and pass your token as the first argument.
 
+### Commands
+When creating the bot in bot father, you can use this list for commands.
+```
+generate - Generate a new wireguard profile
+wireguard -  Download wiregaurd
+warp_plus - Get 1GB of Warp+ for today
+more_warp_plus - Learn how to get more warp+
+help - Get the help of bot
+about - About this bot
+```
+
 ## Warp Plus
 This bot has an optional feature that you can use in order to allow your users add 1GB of warp plus to their account each 24 hours.
 
